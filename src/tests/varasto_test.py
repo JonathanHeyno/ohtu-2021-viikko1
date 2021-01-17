@@ -13,7 +13,7 @@ class TestVarasto(unittest.TestCase):
     # Omaa koodia:
     def test_konstruktori_luo_eityhjan_varaston(self):
         self.varastob = Varasto(-10)
-        self.assertEqual(self.varastob.tilavuus, 6)
+        self.assertEqual(self.varastob.tilavuus, 0)
 
     # Omaa koodia:
     def test_konstruktori_luo_alkusaldo_ppienempi_kuin_nolla(self):
