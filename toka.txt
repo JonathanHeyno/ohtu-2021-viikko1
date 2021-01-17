@@ -1,7 +1,0 @@
-Ensimmaisen version tekstia tokaan tiedostoon
-
-
-Muutos tokaan tiedostoon uudestaan kun restorattiin aiemmin
-
-
-Muutetaan lisaa -p takis
